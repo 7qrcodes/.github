@@ -6,7 +6,7 @@
   <h3 align="center">7QR.CODES</h3>
 
   <p align="center">
-    The open-source link management infrastructure.
+    The open-source QR Codes Generator on Next.js infrastructure.
     <br />
     <a href="https://7qr.codes"><strong>Learn more »</strong></a>
     <br />
